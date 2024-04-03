@@ -350,7 +350,7 @@ public class CharacterCreation {
             layeredPane.remove(diffDesc);
 
             diffDesc = new JLabel("Start with 5000 runes");
-            diffDesc.setBounds(800, 340, 200, 50);
+            diffDesc.setBounds(600, 440, 200, 50);
             diffDesc.setFont(new FontHolder().getFont(20));
             diffDesc.setForeground(Color.white);
         
@@ -361,7 +361,7 @@ public class CharacterCreation {
             layeredPane.remove(diffDesc);
 
             diffDesc = new JLabel("Start with 2000 runes");
-            diffDesc.setBounds(800, 340, 200, 50);
+            diffDesc.setBounds(600, 440, 200, 50);
             diffDesc.setFont(new FontHolder().getFont(20));
             diffDesc.setForeground(Color.white);
         
@@ -372,7 +372,7 @@ public class CharacterCreation {
             layeredPane.remove(diffDesc);
 
             diffDesc = new JLabel("Start with 500 runes");
-            diffDesc.setBounds(800, 340, 200, 50);
+            diffDesc.setBounds(600, 440, 200, 50);
             diffDesc.setFont(new FontHolder().getFont(20));
             diffDesc.setForeground(Color.white);
         
