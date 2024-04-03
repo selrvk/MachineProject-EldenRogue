@@ -97,7 +97,7 @@ public class GameLobby {
         layeredPane.add(backgroundLabel, Integer.valueOf(-1));
 
         nameLabel = new JLabel("Name: " + player.getName());
-        nameLabel.setBounds(300,50,700,100);
+        nameLabel.setBounds(300,10,700,100);
         nameLabel.setFont(font.getFont(40));
         nameLabel.setForeground(Color.white);
         layeredPane.add(nameLabel);
